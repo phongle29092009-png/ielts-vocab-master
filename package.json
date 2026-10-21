@@ -1,0 +1,21 @@
+{
+  "name": "ielts-vocab-master-pro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^5.4.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.468.0",
+    "firebase": "^11.0.2",
+    "pdfjs-dist": "^4.10.38"
+  },
+  "devDependencies": {}
+}
